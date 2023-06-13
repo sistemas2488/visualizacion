@@ -1,0 +1,14 @@
+.chart {
+    width: 100%; 
+    min-height: 450px;
+  }
+  .vf {
+    width: 100%; 
+    min-height: 450px;
+    display: flex;
+    justify-content: center;
+ 
+  }
+  .row {
+    margin:0 !important;
+  }
